@@ -141,6 +141,11 @@ Once `docker-compose up` is running, the following services will be available:
           * **Port:** `5432`
           * **User/Password:** Your `POSTGRES_USER` and `POSTGRES_PASSWORD`.
 
+      * pgadmin needs to be given explicit permissions to the folder it is writing to:
+    ```bash
+    sudo chown -R 5050:5050 /xxx/pgadmindata
+    ```
+
 ### API Endpoints
 
 The server provides the following API endpoints:
