@@ -68,22 +68,15 @@ Follow these instructions to get the entire application stack running locally.
     # pgAdmin Credentials
     PGADMIN_DEFAULT_EMAIL=admin@pokedex.com
     PGADMIN_DEFAULT_PASSWORD=admin
-
-    # This URL is for local Prisma CLI commands (e.g., bunx prisma db pull)
-    # It connects to the database via the port exposed by Docker.
-    DATABASE_URL="postgresql://postgres:password@localhost:5432/pokedex?schema=public"
-
     # DB Storage
     DATA_DIR=/Path/To/DB
 
 3.  **Configure Prisma `.env`**
-    Prisma's local CLI tools (like `db pull` or `studio`) need their own `.env` file inside the `server` directory to connect to the database from your *host* machine. For this purpose a symlink is set to the root env file. 
+    Prisma's local CLI tools (like `db pull` or `studio`) need their own `.env` file inside the `server` directory to connect to the database from your *host* machine. 
 
-    ```bash
-    cd server
-    ln -s ../.env ./.env
-
-    ```
+    # This URL is for local Prisma CLI commands (e.g., bunx prisma db pull)
+    # It connects to the database via the port exposed by Docker.
+    DATABASE_URL="postgresql://postgres:password@localhost:5432/pokedex?schema=public"
 
 4.  **Install Dependencies**
     (This is optional for Docker but good practice for local IDEs and TypeScript support)
@@ -108,7 +101,7 @@ Follow these instructions to get the entire application stack running locally.
       * `--build` is only needed the first time or after changing a `Dockerfile`.
       * This will start the `client`, `server`, `db`, and `pgadmin` containers.
 
-2.  **Seed the Database** (UNDER CONSTRUCTION)
+2.  **Seed the Database**
     Once the containers are running, open a **new terminal window** and execute the seed script. This will populate the Postgres database with data from the CSV files.
 
     ```bash

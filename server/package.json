@@ -3,7 +3,9 @@
   "module": "src/index.ts",
   "type": "module",
   "scripts": {
-    "dev": "bun --watch src/index.ts"
+    "dev": "bun --watch src/index.ts",
+    "seed": "bun run src/scripts/seed.ts",
+    "wrangle": "bun run src/scripts/wrangle.ts"
   },
   "private": true,
   "devDependencies": {
@@ -23,6 +25,7 @@
     "csv-parser": "^3.2.0",
     "dotenv": "^17.2.3",
     "express": "^5.1.0",
+    "fast-csv": "^5.0.5",
     "pg": "^8.16.3"
   }
 }

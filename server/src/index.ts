@@ -11,6 +11,8 @@ app.get('/', (req: Request, res: Response) => {
   res.send('Hallo vom Pokédex-Server!');
 });
 
+app.use('/public', express.static(path.join(__dirname, '..', 'public')));
+
 app.use('/api/pokemon', pokemonRoutes);
 
 app.listen(port, () => {

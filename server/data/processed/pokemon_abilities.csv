@@ -1,0 +1,1026 @@
+pokemon_id,ability_01,ability_02,hidden_ability,egg_group_01,egg_group_02
+1,Overgrow,,Chlorophyll,Monster,Grass
+2,Overgrow,,Chlorophyll,Monster,Grass
+3,Overgrow,,Chlorophyll,Monster,Grass
+4,Blaze,,Solar Power,Monster,Dragon
+5,Blaze,,Solar Power,Monster,Dragon
+6,Blaze,,Solar Power,Monster,Dragon
+7,Torrent,,Rain Dish,Monster,Water 1
+8,Torrent,,Rain Dish,Monster,Water 1
+9,Torrent,,Rain Dish,Monster,Water 1
+10,Shield,,Run Away,Bug,
+11,Shed,,,Bug,
+12,Compound,,Tinted Lens,Bug,
+13,Shield,,Run Away,Bug,
+14,Shed,,,Bug,
+15,Swarm,,Sniper,Bug,
+16,Keen,Tangled,Big Pecks,Flying,
+17,Keen,Tangled,Big Pecks,Flying,
+18,Keen,Tangled,Big Pecks,Flying,
+19,Run,Guts,Hustle,Field,
+20,Run,Guts,Hustle,Field,
+21,Keen,,Sniper,Flying,
+22,Keen,,Sniper,Flying,
+23,Intimidate,Shed,Unnerve,Field,Dragon
+24,Intimidate,Shed,Unnerve,Field,Dragon
+25,Static,,Lightning Rod,Field,Fairy\xa0or No Eggs DiscoveredCosplay/Cap
+26,Static,,Lightning Rod,Field,Fairy
+27,Sand,,Sand Rush,Field,
+28,Sand,,Sand Rush,Field,
+29,Poison,Rivalry,Hustle,Monster,Field
+30,Poison,Rivalry,Hustle,No Eggs Discovered,
+31,Poison,Rivalry,Sheer Force,No Eggs Discovered,
+32,Poison,Rivalry,Hustle,Monster,Field
+33,Poison,Rivalry,Hustle,Monster,Field
+34,Poison,Rivalry,Sheer Force,Monster,Field
+35,Cute,Magic,Friend Guard,Fairy,
+36,Cute,Magic,Unaware,Fairy,
+37,Flash,,Drought,Field,
+38,Flash,,Drought,Field,
+39,Cute,Competitive,Friend Guard,Fairy,
+40,Cute,Competitive,Frisk,Fairy,
+41,Inner,,Infiltrator,Flying,
+42,Inner,,Infiltrator,Flying,
+43,Chlorophyll,,Run Away,Grass,
+44,Chlorophyll,,Stench,Grass,
+45,Chlorophyll,,Effect Spore,Grass,
+46,Effect,Dry,Damp,Bug,Grass
+47,Effect,Dry,Damp,Bug,Grass
+48,Compound,Tinted,Run Away,Bug,
+49,Shield,Tinted,Wonder Skin,Bug,
+50,Sand,Arena,Sand Force,Field,
+51,Sand,Arena,Sand Force,Field,
+52,Pickup,Technician,Unnerve and Galarian,Field,
+53,Limber,Technician,Unnerve,Field,
+54,Damp,Cloud,Swift Swim,Water 1,Field
+55,Damp,Cloud,Swift Swim,Water 1,Field
+56,Vital,Anger,Defiant,Field,
+57,Vital,Anger,Defiant,Field,
+58,Intimidate,Flash,Justified,Field,
+59,Intimidate,Flash,Justified,Field,
+60,Water,Damp,Swift Swim,Water 1,
+61,Water,Damp,Swift Swim,Water 1,
+62,Water,Damp,Swift Swim,Water 1,
+63,Synchronize,Inner,Magic Guard,Human-Like,
+64,Synchronize,Inner,Magic Guard,Human-Like,
+65,Synchronize,Inner,Magic Guard,Human-Like,
+66,Guts,No,Steadfast,Human-Like,
+67,Guts,No,Steadfast,Human-Like,
+68,Guts,No,Steadfast,Human-Like,
+69,Chlorophyll,,Gluttony,Grass,
+70,Chlorophyll,,Gluttony,Grass,
+71,Chlorophyll,,Gluttony,Grass,
+72,Clear,Liquid,Rain Dish,Water 3,
+73,Clear,Liquid,Rain Dish,Water 3,
+74,Rock,Sturdy,Sand Veil,Mineral,
+75,Rock,Sturdy,Sand Veil,Mineral,
+76,Rock,Sturdy,Sand Veil,Mineral,
+77,Run,Flash,Flame Body,Field,
+78,Run,Flash,Flame Body,Field,
+79,Oblivious,Own,Regenerator,Monster,Water 1
+80,Oblivious,Own,Regenerator,Monster,Water 1
+81,Magnet,Sturdy,Analytic,Mineral,
+82,Magnet,Sturdy,Analytic,Mineral,
+83,Keen,Inner,Defiant,Flying,Field
+84,Run,Early,Tangled Feet,Flying,
+85,Run,Early,Tangled Feet,Flying,
+86,Thick,Hydration,Ice Body,Water 1,Field
+87,Thick,Hydration,Ice Body,Water 1,Field
+88,Stench,Sticky,Poison Touch,Amorphous,
+89,Stench,Sticky,Poison Touch,Amorphous,
+90,Shell,Skill,Overcoat,Water 3,
+91,Shell,Skill,Overcoat,Water 3,
+92,Levitate,,,Amorphous,
+93,Levitate,,,Amorphous,
+94,Cursed,,,Amorphous,
+95,Rock,Sturdy,Weak Armor,Mineral,
+96,Insomnia,Forewarn,Inner Focus,Human-Like,
+97,Insomnia,Forewarn,Inner Focus,Human-Like,
+98,Hyper,Shell,Sheer Force,Water 3,
+99,Hyper,Shell,Sheer Force,Water 3,
+100,Soundproof,Static,Aftermath,Mineral,
+101,Soundproof,Static,Aftermath,Mineral,
+102,Chlorophyll,,Harvest,Grass,
+103,Chlorophyll,,Harvest,Grass,
+104,Rock,Lightning,Battle Armor,Monster,
+105,Rock,Lightning,Battle Armor,Monster,
+106,Limber,Reckless,Unburden,Human-Like,
+107,Keen,Iron,Inner Focus,Human-Like,
+108,Own,Oblivious,Cloud Nine,Monster,
+109,Levitate,Neutralizing GasGen,Stench,Amorphous,
+110,Levitate,Neutralizing,Stench,Amorphous,
+111,Lightning,Rock,Reckless,Monster,Field
+112,Lightning,Rock,Reckless,Monster,Field
+113,Natural,Serene,Healer,Fairy,
+114,Chlorophyll,Leaf,Regenerator,Grass,
+115,Early,Scrappy,Inner Focus,Monster,
+116,Swift,Sniper,Damp,Water 1,Dragon
+117,Poison,Sniper,Damp,Water 1,Dragon
+118,Swift,Water,Lightning Rod,Water 2,
+119,Swift,Water,Lightning Rod,Water 2,
+120,Illuminate,Natural,Analytic,Water 3,
+121,Illuminate,Natural,Analytic,Water 3,
+122,Soundproof,Filter,Technician,Human-Like,
+123,Swarm,Technician,Steadfast,Bug,
+124,Oblivious,Forewarn,Dry Skin,Human-Like,
+125,Static,,Vital Spirit,Human-Like,
+126,Flame,,Vital Spirit,Human-Like,
+127,Hyper,Mold,Moxie,Bug,
+128,Intimidate,Anger,Sheer Force,Field,
+129,Swift,,Rattled,Water 2,Dragon
+130,Intimidate,,Moxie,Water 2,Dragon
+131,Water,Shell,Hydration,Monster,Water 1
+132,Limber,,Imposter,Ditto,
+133,Run,Adaptability,Anticipation,Field,
+134,Water,,Hydration,Field,
+135,Volt,,Quick Feet,Field,
+136,Flash,,Guts,Field,
+137,Trace,Download,Analytic,Mineral,
+138,Swift,Shell,Weak Armor,Water 1,Water 3
+139,Swift,Shell,Weak Armor,Water 1,Water 3
+140,Swift,Battle,Weak Armor,Water 1,Water 3
+141,Swift,Battle,Weak Armor,Water 1,Water 3
+142,Rock,Pressure,Unnerve,Flying,
+143,Immunity,Thick,Gluttony,Monster,
+144,Pressure,,Snow Cloak,,
+145,Pressure,,Static,,
+146,Pressure,,Flame Body,,
+147,Shed,,Marvel Scale,Water 1,Dragon
+148,Shed,,Marvel Scale,Water 1,Dragon
+149,Inner,,Multiscale,Water 1,Dragon
+150,Pressure,,Unnerve,,
+151,Synchronize,,,,
+152,Overgrow,,Leaf Guard,Monster,Grass
+153,Overgrow,,Leaf Guard,Monster,Grass
+154,Overgrow,,Leaf Guard,Monster,Grass
+155,Blaze,,Flash Fire,Field,
+156,Blaze,,Flash Fire,Field,
+157,Blaze,,Flash Fire,Field,
+158,Torrent,,Sheer Force,Monster,Water 1
+159,Torrent,,Sheer Force,Monster,Water 1
+160,Torrent,,Sheer Force,Monster,Water 1
+161,Run,Keen,Frisk,Field,
+162,Run,Keen,Frisk,Field,
+163,Insomnia,Keen,Tinted Lens,Flying,
+164,Insomnia,Keen,Tinted Lens,Flying,
+165,Swarm,Early,Rattled,Bug,
+166,Swarm,Early,Iron Fist,Bug,
+167,Swarm,Insomnia,Sniper,Bug,
+168,Swarm,Insomnia,Sniper,Bug,
+169,Inner,,Infiltrator,Flying,
+170,Volt,Illuminate,Water Absorb,Water 2,
+171,Volt,Illuminate,Water Absorb,Water 2,
+172,Static,,Lightning Rod,No Eggs Discovered,
+173,Cute,Magic,Friend Guard,No Eggs Discovered,
+174,Cute,Competitive,Friend Guard,No Eggs Discovered,
+175,Hustle,Serene,Super Luck,No Eggs Discovered,
+176,Hustle,Serene,Super Luck,Flying,Fairy
+177,Synchronize,Early,Magic Bounce,Flying,
+178,Synchronize,Early,Magic Bounce,Flying,
+179,Static,,Plus,Monster,Field
+180,Static,,Plus,Monster,Field
+181,Static,,Plus,Monster,Field
+182,Chlorophyll,,Healer,Grass,
+183,Thick,Huge,Sap Sipper,Water 1,Fairy
+184,Thick,Huge,Sap Sipper,Water 1,Fairy
+185,Sturdy,Rock,Rattled,Mineral,
+186,Water,Damp,Drizzle,Water 1,
+187,Chlorophyll,Leaf,Infiltrator,Fairy,Grass
+188,Chlorophyll,Leaf,Infiltrator,Fairy,Grass
+189,Chlorophyll,Leaf,Infiltrator,Fairy,Grass
+190,Run,Pickup,Skill Link,Field,
+191,Chlorophyll,Solar,Early Bird,Grass,
+192,Chlorophyll,Solar,Early Bird,Grass,
+193,Speed,Compound,Frisk,Bug,
+194,Damp,Water,Unaware,Water 1,Field
+195,Damp,Water,Unaware,Water 1,Field
+196,Synchronize,,Magic Bounce,Field,
+197,Synchronize,,Inner Focus,Field,
+198,Insomnia,Super,Prankster,Flying,
+199,Oblivious,Own,Regenerator,Monster,Water 1
+200,Levitate,,,Amorphous,
+201,Levitate,,,,
+202,Shadow,,Telepathy,Amorphous,
+203,Inner,Early,Sap Sipper,Field,
+204,Sturdy,,Overcoat,Bug,
+205,Sturdy,,Overcoat,Bug,
+206,Serene,Run,Rattled,Field,
+207,Hyper,Sand,Immunity,Bug,
+208,Rock,Sturdy,Sheer Force,Mineral,
+209,Intimidate,Run,Rattled,Field,Fairy
+210,Intimidate,Quick,Rattled,Field,Fairy
+211,Poison,Swift,Intimidate,Water 2,
+212,Swarm,Technician,Light Metal,Bug,
+213,Sturdy,Gluttony,Contrary,Bug,
+214,Swarm,Guts,Moxie,Bug,
+215,Inner,Keen,Pickpocket,Field,
+216,Pickup,Quick,Honey Gather,Field,
+217,Guts,Quick,Unnerve,Field,
+218,Magma,Flame,Weak Armor,Amorphous,
+219,Magma,Flame,Weak Armor,Amorphous,
+220,Oblivious,Snow,Thick Fat,Field,
+221,Oblivious,Snow,Thick Fat,Field,
+222,Hustle,Natural,Regenerator,Water 1,Water 3
+223,Hustle,Sniper,Moody,Water 1,Water 2
+224,Suction,Sniper,Moody,Water 1,Water 2
+225,Vital,Hustle,Insomnia,Water 1,Field
+226,Swift,Water,Water Veil,Water 1,
+227,Keen,Sturdy,Weak Armor,Flying,
+228,Early,Flash,Unnerve,Field,
+229,Early,Flash,Unnerve,Field,
+230,Swift,Sniper,Damp,Water 1,Dragon
+231,Pickup,,Sand Veil,Field,
+232,Sturdy,,Sand Veil,Field,
+233,Trace,Download,Analytic,Mineral,
+234,Intimidate,Frisk,Sap Sipper,Field,
+235,Own,Technician,Moody,Field,
+236,Guts,Steadfast,Vital Spirit,No Eggs Discovered,
+237,Intimidate,Technician,Steadfast,Human-Like,
+238,Oblivious,Forewarn,Hydration,No Eggs Discovered,
+239,Static,,Vital Spirit,No Eggs Discovered,
+240,Flame,,Vital Spirit,No Eggs Discovered,
+241,Thick,Scrappy,Sap Sipper,Field,
+242,Natural,Serene,Healer,Fairy,
+243,Pressure,,Inner Focus,,
+244,Pressure,,Inner Focus,,
+245,Pressure,,Inner Focus,,
+246,Guts,,Sand Veil,Monster,
+247,Shed,,,Monster,
+248,Sand,,Unnerve,Monster,
+249,Pressure,,Multiscale,,
+250,Pressure,,Regenerator,,
+251,Natural,,,,
+252,Overgrow,,Unburden,Monster,Dragon
+253,Overgrow,,Unburden,Monster,Dragon
+254,Overgrow,,Unburden,Monster,Dragon
+255,Blaze,,Speed Boost,Field,
+256,Blaze,,Speed Boost,Field,
+257,Blaze,,Speed Boost,Field,
+258,Torrent,,Damp,Monster,Water 1
+259,Torrent,,Damp,Monster,Water 1
+260,Torrent,,Damp,Monster,Water 1
+261,Run,Quick,Rattled,Field,
+262,Intimidate,Quick,Moxie,Field,
+263,Pickup,Gluttony,Quick Feet,Field,
+264,Pickup,Gluttony,Quick Feet,Field,
+265,Shield,,Run Away,Bug,
+266,Shed,,,Bug,
+267,Swarm,,Rivalry,Bug,
+268,Shed,,,Bug,
+269,Shield,,Compound Eyes,Bug,
+270,Swift,Rain,Own Tempo,Water 1,Grass
+271,Swift,Rain,Own Tempo,Water 1,Grass
+272,Swift,Rain,Own Tempo,Water 1,Grass
+273,Chlorophyll,Early,Pickpocket,Field,Grass
+274,Chlorophyll,Early,Pickpocket,Field,Grass
+275,Chlorophyll,Wind,Pickpocket,Field,Grass
+276,Guts,,Scrappy,Flying,
+277,Guts,,Scrappy,Flying,
+278,Keen,Hydration,Rain Dish,Water 1,Flying
+279,Keen,Drizzle,Rain Dish,Water 1,Flying
+280,Synchronize,Trace,Telepathy,Human-LikeGen VIII+,Amorphous
+281,Synchronize,Trace,Telepathy,Human-LikeGen VIII+,Amorphous
+282,Synchronize,Trace,Telepathy,Human-LikeGen VIII+,Amorphous
+283,Swift,,Rain Dish,Water 1,Bug
+284,Intimidate,,Unnerve,Water 1,Bug
+285,Effect,Poison,Quick Feet,Fairy,Grass
+286,Effect,Poison,Technician,Fairy,Grass
+287,Truant,,,Field,
+288,Vital,,,Field,
+289,Truant,,,Field,
+290,Compound,,Run Away,Bug,
+291,Speed,,Infiltrator,Bug,
+292,Wonder,,,Mineral,
+293,Soundproof,,Rattled,Monster,Field
+294,Soundproof,,Scrappy,Monster,Field
+295,Soundproof,,Scrappy,Monster,Field
+296,Thick,Guts,Sheer Force,Human-Like,
+297,Thick,Guts,Sheer Force,Human-Like,
+298,Thick,Huge,Sap Sipper,No Eggs Discovered,
+299,Sturdy,Magnet,Sand Force,Mineral,
+300,Cute,Normalize,Wonder Skin,Field,Fairy
+301,Cute,Normalize,Wonder Skin,Field,Fairy
+302,Keen,Stall,Prankster,Human-Like,
+303,Hyper,Intimidate,Sheer Force,Field,Fairy
+304,Sturdy,Rock,Heavy Metal,Monster,
+305,Sturdy,Rock,Heavy Metal,Monster,
+306,Sturdy,Rock,Heavy Metal,Monster,
+307,Pure,,Telepathy,Human-Like,
+308,Pure,,Telepathy,Human-Like,
+309,Static,Lightning,Minus,Field,
+310,Static,Lightning,Minus,Field,
+311,Plus,,Lightning Rod,Fairy,
+312,Minus,,Volt Absorb,Fairy,
+313,Illuminate,Swarm,Prankster,Bug,Human-Like
+314,Oblivious,Tinted,Prankster,Bug,Human-Like
+315,Natural,Poison,Leaf Guard,Fairy,Grass
+316,Liquid,Sticky,Gluttony,Amorphous,
+317,Liquid,Sticky,Gluttony,Amorphous,
+318,Rough,,Speed Boost,Water 2,
+319,Rough,,Speed Boost,Water 2,
+320,Water,Oblivious,Pressure,Field,Water 2
+321,Water,Oblivious,Pressure,Field,Water 2
+322,Oblivious,Simple,Own Tempo,Field,
+323,Magma,Solid,Anger Point,Field,
+324,White,Drought,Shell Armor,Field,
+325,Thick,Own,Gluttony,Field,
+326,Thick,Own,Gluttony,Field,
+327,Own,Tangled,Contrary,Field,Human-Like
+328,Hyper,Arena,Sheer Force,Bug,DragonGen VIII+
+329,Levitate,,,Bug,DragonGen VIII+
+330,Levitate,,,Bug,DragonGen VIII+
+331,Sand,,Water Absorb,Grass,Human-Like
+332,Sand,,Water Absorb,Grass,Human-Like
+333,Natural,,Cloud Nine,Flying,Dragon
+334,Natural,,Cloud Nine,Flying,Dragon
+335,Immunity,,Toxic Boost,Field,
+336,Shed,,Infiltrator,Field,Dragon
+337,Levitate,,,Mineral,
+338,Levitate,,,Mineral,
+339,Oblivious,Anticipation,Hydration,Water 2,
+340,Oblivious,Anticipation,Hydration,Water 2,
+341,Hyper,Shell,Adaptability,Water 1,Water 3
+342,Hyper,Shell,Adaptability,Water 1,Water 3
+343,Levitate,,,Mineral,
+344,Levitate,,,Mineral,
+345,Suction,,Storm Drain,Water 3,
+346,Suction,,Storm Drain,Water 3,
+347,Battle,,Swift Swim,Water 3,
+348,Battle,,Swift Swim,Water 3,
+349,Swift,Oblivious,Adaptability,Water 1,Dragon
+350,Marvel,Competitive,Cute Charm,Water 1,Dragon
+351,Forecast,,,Fairy,Amorphous
+352,Color,,Protean,Field,
+353,Insomnia,Frisk,Cursed Body,Amorphous,
+354,Insomnia,Frisk,Cursed Body,Amorphous,
+355,Levitate,,Frisk,Amorphous,
+356,Pressure,,Frisk,Amorphous,
+357,Chlorophyll,Solar,Harvest,Monster,Grass
+358,Levitate,,,Amorphous,
+359,Pressure,Super,Justified,Field,
+360,Shadow,,Telepathy,No Eggs Discovered,
+361,Inner,Ice,Moody,Fairy,Mineral
+362,Inner,Ice,Moody,Fairy,Mineral
+363,Thick,Ice,Oblivious,Water 1,Field
+364,Thick,Ice,Oblivious,Water 1,Field
+365,Thick,Ice,Oblivious,Water 1,Field
+366,Shell,,Rattled,Water 1,
+367,Swift,,Water Veil,Water 1,
+368,Swift,,Hydration,Water 1,
+369,Swift,Rock,Sturdy,Water 1,Water 2
+370,Swift,,Hydration,Water 2,
+371,Rock,,Sheer Force,Dragon,
+372,Rock,,Overcoat,Dragon,
+373,Intimidate,,Moxie,Dragon,
+374,Clear,,Light Metal,Mineral,
+375,Clear,,Light Metal,Mineral,
+376,Clear,,Light Metal,Mineral,
+377,Clear,,Sturdy,,
+378,Clear,,Ice Body,,
+379,Clear,,Light Metal,,
+380,Levitate,,,,
+381,Levitate,,,,
+382,Drizzle,,,,
+383,Drought,,,,
+384,Air,,,,
+385,Serene,,,,
+386,Pressure,,,,
+387,Overgrow,,Shell Armor,Monster,Grass
+388,Overgrow,,Shell Armor,Monster,Grass
+389,Overgrow,,Shell Armor,Monster,Grass
+390,Blaze,,Iron Fist,Field,Human-Like
+391,Blaze,,Iron Fist,Field,Human-Like
+392,Blaze,,Iron Fist,Field,Human-Like
+393,Torrent,,Competitive,Water 1,Field
+394,Torrent,,Competitive,Water 1,Field
+395,Torrent,,Competitive,Water 1,Field
+396,Keen,,Reckless,Flying,
+397,Intimidate,,Reckless,Flying,
+398,Intimidate,,Reckless,Flying,
+399,Simple,Unaware,Moody,Water 1,Field
+400,Simple,Unaware,Moody,Water 1,Field
+401,Shed,,Run Away,Bug,
+402,Swarm,,Technician,Bug,
+403,Rivalry,Intimidate,Guts,Field,
+404,Rivalry,Intimidate,Guts,Field,
+405,Rivalry,Intimidate,Guts,Field,
+406,Natural,Poison,Leaf Guard,No Eggs Discovered,
+407,Natural,Poison,Technician,Fairy,Grass
+408,Mold,,Sheer Force,Monster,
+409,Mold,,Sheer Force,Monster,
+410,Sturdy,,Soundproof,Monster,
+411,Sturdy,,Soundproof,Monster,
+412,Shed,,Overcoat,Bug,
+413,Anticipation,,Overcoat,Bug,
+414,Swarm,,Tinted Lens,Bug,
+415,Honey,,Hustle,Bug,
+416,Pressure,,Unnerve,Bug,
+417,Run,Pickup,Volt Absorb,Field,Fairy
+418,Swift,,Water Veil,Water 1,Field
+419,Swift,,Water Veil,Water 1,Field
+420,Chlorophyll,,,Fairy,Grass
+421,Flower,,,Fairy,Grass
+422,Sticky,Storm,Sand Force,Water 1,Amorphous
+423,Sticky,Storm,Sand Force,Water 1,Amorphous
+424,Technician,Pickup,Skill Link,Field,
+425,Aftermath,Unburden,Flare Boost,Amorphous,
+426,Aftermath,Unburden,Flare Boost,Amorphous,
+427,Run,Klutz,Limber,Field,Human-Like
+428,Cute,Klutz,Limber,Field,Human-Like
+429,Levitate,,,Amorphous,
+430,Insomnia,Super,Moxie,Flying,
+431,Limber,Own,Keen Eye,Field,
+432,Thick,Own,Defiant,Field,
+433,Levitate,,,No Eggs Discovered,
+434,Stench,Aftermath,Keen Eye,Field,
+435,Stench,Aftermath,Keen Eye,Field,
+436,Levitate,Heatproof,Heavy Metal,Mineral,
+437,Levitate,Heatproof,Heavy Metal,Mineral,
+438,Sturdy,Rock,Rattled,No Eggs Discovered,
+439,Soundproof,Filter,Technician,No Eggs Discovered,
+440,Natural,Serene,Friend Guard,No Eggs Discovered,
+441,Keen,Tangled,Big Pecks,Flying,
+442,Pressure,,Infiltrator,Amorphous,
+443,Sand,,Rough Skin,Monster,Dragon
+444,Sand,,Rough Skin,Monster,Dragon
+445,Sand,,Rough Skin,Monster,Dragon
+446,Pickup,Thick,Gluttony,No Eggs Discovered,
+447,Steadfast,Inner,Prankster,No Eggs Discovered,
+448,Steadfast,Inner,Justified,Field,Human-Like
+449,Sand,,Sand Force,Field,
+450,Sand,,Sand Force,Field,
+451,Battle,Sniper,Keen Eye,Bug,Water 3
+452,Battle,Sniper,Keen Eye,Bug,Water 3
+453,Anticipation,Dry,Poison Touch,Human-Like,
+454,Anticipation,Dry,Poison Touch,Human-Like,
+455,Levitate,,,Grass,
+456,Swift,Storm,Water Veil,Water 2,
+457,Swift,Storm,Water Veil,Water 2,
+458,Swift,Water,Water Veil,No Eggs Discovered,
+459,Snow,,Soundproof,Monster,Grass
+460,Snow,,Soundproof,Monster,Grass
+461,Pressure,,Pickpocket,Field,
+462,Magnet,Sturdy,Analytic,Mineral,
+463,Own,Oblivious,Cloud Nine,Monster,
+464,Lightning,Solid,Reckless,Monster,Field
+465,Chlorophyll,Leaf,Regenerator,Grass,
+466,Motor,,Vital Spirit,Human-Like,
+467,Flame,,Vital Spirit,Human-Like,
+468,Hustle,Serene,Super Luck,Flying,Fairy
+469,Speed,Tinted,Frisk,Bug,
+470,Leaf,,Chlorophyll,Field,
+471,Snow,,Ice Body,Field,
+472,Hyper,Sand,Poison Heal,Bug,
+473,Oblivious,Snow,Thick Fat,Field,
+474,Adaptability,Download,Analytic,Mineral,
+475,Steadfast,Sharpness,Justified,Human-LikeGen VIII+,Amorphous
+476,Sturdy,Magnet,Sand Force,Mineral,
+477,Pressure,,Frisk,Amorphous,
+478,Snow,,Cursed Body,Fairy,Mineral
+479,Levitate,,,Amorphous,
+480,Levitate,,,,
+481,Levitate,,,,
+482,Levitate,,,,
+483,Pressure,,Telepathy,,
+484,Pressure,,Telepathy,,
+485,Flash,,Flame Body,,
+486,Slow,,,,
+487,Pressure,,Telepathy,,
+488,Levitate,,,,
+489,Hydration,,,Water 1,Fairy
+490,Hydration,,,Water 1,Fairy
+491,Bad,,,,
+492,Natural,,,,
+493,Multitype,,,,
+494,Victory,,,,
+495,Overgrow,,Contrary,Field,Grass
+496,Overgrow,,Contrary,Field,Grass
+497,Overgrow,,Contrary,Field,Grass
+498,Blaze,,Thick Fat,Field,
+499,Blaze,,Thick Fat,Field,
+500,Blaze,,Reckless,Field,
+501,Torrent,,Shell Armor,Field,
+502,Torrent,,Shell Armor,Field,
+503,Torrent,,Shell Armor,Field,
+504,Run,Keen,Analytic,Field,
+505,Illuminate,Keen,Analytic,Field,
+506,Vital,Pickup,Run Away,Field,
+507,Intimidate,Sand,Scrappy,Field,
+508,Intimidate,Sand,Scrappy,Field,
+509,Limber,Unburden,Prankster,Field,
+510,Limber,Unburden,Prankster,Field,
+511,Gluttony,,Overgrow,Field,
+512,Gluttony,,Overgrow,Field,
+513,Gluttony,,Blaze,Field,
+514,Gluttony,,Blaze,Field,
+515,Gluttony,,Torrent,Field,
+516,Gluttony,,Torrent,Field,
+517,Forewarn,Synchronize,Telepathy,Field,
+518,Forewarn,Synchronize,Telepathy,Field,
+519,Big,Super,Rivalry,Flying,
+520,Big,Super,Rivalry,Flying,
+521,Big,Super,Rivalry,Flying,
+522,Lightning,Motor,Sap Sipper,Field,
+523,Lightning,Motor,Sap Sipper,Field,
+524,Sturdy,Weak,Sand Force,Mineral,
+525,Sturdy,Weak,Sand Force,Mineral,
+526,Sturdy,Sand,Sand Force,Mineral,
+527,Unaware,Klutz,Simple,Field,Flying
+528,Unaware,Klutz,Simple,Field,Flying
+529,Sand,Sand,Mold Breaker,Field,
+530,Sand,Sand,Mold Breaker,Field,
+531,Healer,Regenerator,Klutz,Fairy,
+532,Guts,Sheer,Iron Fist,Human-Like,
+533,Guts,Sheer,Iron Fist,Human-Like,
+534,Guts,Sheer,Iron Fist,Human-Like,
+535,Swift,Hydration,Water Absorb,Water 1,
+536,Swift,Hydration,Water Absorb,Water 1,
+537,Swift,Poison,Water Absorb,Water 1,
+538,Guts,Inner,Mold Breaker,Human-Like,
+539,Sturdy,Inner,Mold Breaker,Human-Like,
+540,Swarm,Chlorophyll,Overcoat,Bug,
+541,Leaf,Chlorophyll,Overcoat,Bug,
+542,Swarm,Chlorophyll,Overcoat,Bug,
+543,Poison,Swarm,Speed Boost,Bug,
+544,Poison,Swarm,Speed Boost,Bug,
+545,Poison,Swarm,Speed Boost,Bug,
+546,Prankster,Infiltrator,Chlorophyll,Grass,Fairy
+547,Prankster,Infiltrator,Chlorophyll,Grass,Fairy
+548,Chlorophyll,Own,Leaf Guard,Grass,
+549,Chlorophyll,Own,Leaf Guard,Grass,
+550,Reckless,AdaptabilityRed Striped,Mold Breaker,Water 2,
+551,Intimidate,Moxie,Anger Point,Field,
+552,Intimidate,Moxie,Anger Point,Field,
+553,Intimidate,Moxie,Anger Point,Field,
+554,Hustle,,Inner Focus,Field,
+555,Sheer,,Zen Mode,Field,
+556,Water,Chlorophyll,Storm Drain,Grass,
+557,Sturdy,Shell,Weak Armor,Bug,Mineral
+558,Sturdy,Shell,Weak Armor,Bug,Mineral
+559,Shed,Moxie,Intimidate,Field,Dragon
+560,Shed,Moxie,Intimidate,Field,Dragon
+561,Wonder,Magic,Tinted Lens,Flying,
+562,Mummy,,,Mineral,Amorphous
+563,Mummy,,,Mineral,Amorphous
+564,Solid,Sturdy,Swift Swim,Water 1,Water 3
+565,Solid,Sturdy,Swift Swim,Water 1,Water 3
+566,Defeatist,,,Flying,Water 3
+567,Defeatist,,,Flying,Water 3
+568,Stench,Sticky,Aftermath,Mineral,
+569,Stench,Weak,Aftermath,Mineral,
+570,Illusion,,,Field,
+571,Illusion,,,Field,
+572,Cute,Technician,Skill Link,Field,
+573,Cute,Technician,Skill Link,Field,
+574,Frisk,Competitive,Shadow Tag,Human-Like,
+575,Frisk,Competitive,Shadow Tag,Human-Like,
+576,Frisk,Competitive,Shadow Tag,Human-Like,
+577,Overcoat,Magic,Regenerator,Amorphous,
+578,Overcoat,Magic,Regenerator,Amorphous,
+579,Overcoat,Magic,Regenerator,Amorphous,
+580,Keen,Big,Hydration,Water 1,Flying
+581,Keen,Big,Hydration,Water 1,Flying
+582,Ice,Snow,Weak Armor,Mineral,
+583,Ice,Snow,Weak Armor,Mineral,
+584,Ice,Snow,Weak Armor,Mineral,
+585,Chlorophyll,Sap,Serene Grace,Field,
+586,Chlorophyll,Sap,Serene Grace,Field,
+587,Static,,Motor Drive,Field,
+588,Swarm,Shed,No Guard,Bug,
+589,Swarm,Shell,Overcoat,Bug,
+590,Effect,,Regenerator,Grass,
+591,Effect,,Regenerator,Grass,
+592,Water,Cursed,Damp,Amorphous,
+593,Water,Cursed,Damp,Amorphous,
+594,Healer,Hydration,Regenerator,Water 1,Water 2
+595,Compound,Unnerve,Swarm,Bug,
+596,Compound,Unnerve,Swarm,Bug,
+597,Iron,,,Grass,Mineral
+598,Iron,,Anticipation,Grass,Mineral
+599,Plus,Minus,Clear Body,Mineral,
+600,Plus,Minus,Clear Body,Mineral,
+601,Plus,Minus,Clear Body,Mineral,
+602,Levitate,,,Amorphous,
+603,Levitate,,,Amorphous,
+604,Levitate,,,Amorphous,
+605,Telepathy,Synchronize,Analytic,Human-Like,
+606,Telepathy,Synchronize,Analytic,Human-Like,
+607,Flash,Flame,Infiltrator,Amorphous,
+608,Flash,Flame,Infiltrator,Amorphous,
+609,Flash,Flame,Infiltrator,Amorphous,
+610,Rivalry,Mold,Unnerve,Monster,Dragon
+611,Rivalry,Mold,Unnerve,Monster,Dragon
+612,Rivalry,Mold,Unnerve,Monster,Dragon
+613,Snow,Slush,Rattled,Field,
+614,Snow,Slush,Swift Swim,Field,
+615,Levitate,,,Mineral,
+616,Hydration,Shell,Overcoat,Bug,
+617,Hydration,Sticky,Unburden,Bug,
+618,Static,Limber,Sand Veil,Water 1,Amorphous
+619,Inner,Regenerator,Reckless,Field,Human-Like
+620,Inner,Regenerator,Reckless,Field,Human-Like
+621,Rough,Sheer,Mold Breaker,Dragon,Monster
+622,Iron,Klutz,No Guard,Mineral,
+623,Iron,Klutz,No Guard,Mineral,
+624,Defiant,Inner,Pressure,Human-Like,
+625,Defiant,Inner,Pressure,Human-Like,
+626,Reckless,Sap,Soundproof,Field,
+627,Keen,Sheer,Hustle,Flying,
+628,Keen,Sheer,Defiant,Flying,
+629,Big,Overcoat,Weak Armor,Flying,
+630,Big,Overcoat,Weak Armor,Flying,
+631,Gluttony,Flash,White Smoke,Field,
+632,Swarm,Hustle,Truant,Bug,
+633,Hustle,,,Dragon,
+634,Hustle,,,Dragon,
+635,Levitate,,,Dragon,
+636,Flame,,Swarm,Bug,
+637,Flame,,Swarm,Bug,
+638,Justified,,,,
+639,Justified,,,,
+640,Justified,,,,
+641,Prankster,,Defiant,,
+642,Prankster,,Defiant,,
+643,Turboblaze,,,,
+644,Teravolt,,,,
+645,Sand,,Sheer Force,,
+646,Pressure,,,,
+647,Justified,,,,
+648,Serene,,,,
+649,Download,,,,
+650,Overgrow,,Bulletproof,Field,
+651,Overgrow,,Bulletproof,Field,
+652,Overgrow,,Bulletproof,Field,
+653,Blaze,,Magician,Field,
+654,Blaze,,Magician,Field,
+655,Blaze,,Magician,Field,
+656,Torrent,,Protean,Water 1,
+657,Torrent,,Protean,Water 1,
+658,Torrent,,Protean,Water 1Greninja,No Eggs DiscoveredBattle Bond Greninja
+659,Pickup,Cheek,Huge Power,Field,
+660,Pickup,Cheek,Huge Power,Field,
+661,Big,,Gale Wings,Flying,
+662,Flame,,Gale Wings,Flying,
+663,Flame,,Gale Wings,Flying,
+664,Shield,Compound,Friend Guard,Bug,
+665,Shed,,Friend Guard,Bug,
+666,Shield,Compound,Friend Guard,Bug,
+667,Rivalry,Unnerve,Moxie,Field,
+668,Rivalry,Unnerve,Moxie,Field,
+669,Flower,,Symbiosis,Fairy,
+670,Flower,,Symbiosis,Fairy,
+671,Flower,,Symbiosis,Fairy,
+672,Sap,,Grass Pelt,Field,
+673,Sap,,Grass Pelt,Field,
+674,Iron,Mold,Scrappy,Field,Human-Like
+675,Iron,Mold,Scrappy,Field,Human-Like
+676,Fur,,,Field,
+677,Keen,Infiltrator,Own Tempo,Field,
+678,Keen,Infiltrator,Prankster,Field,
+679,No,,,Mineral,
+680,No,,,Mineral,
+681,Stance,,,Mineral,
+682,Healer,,Aroma Veil,Fairy,
+683,Healer,,Aroma Veil,Fairy,
+684,Sweet,,Unburden,Fairy,
+685,Sweet,,Unburden,Fairy,
+686,Contrary,Suction,Infiltrator,Water 1,Water 2
+687,Contrary,Suction,Infiltrator,Water 1,Water 2
+688,Tough,Sniper,Pickpocket,Water 3,
+689,Tough,Sniper,Pickpocket,Water 3,
+690,Poison,Poison,Adaptability,Water 1,Dragon
+691,Poison,Poison,Adaptability,Water 1,Dragon
+692,Launcher,,,Water 1,Water 3
+693,Launcher,,,Water 1,Water 3
+694,Dry,Sand,Solar Power,Monster,Dragon
+695,Dry,Sand,Solar Power,Monster,Dragon
+696,Strong,,Sturdy,Monster,Dragon
+697,Strong,,Rock Head,Monster,Dragon
+698,Refrigerate,,Snow Warning,Monster,
+699,Refrigerate,,Snow Warning,Monster,
+700,Cute,,Pixilate,Field,
+701,Limber,Unburden,Mold Breaker,FlyingGen VIII+,Human-Like
+702,Cheek,Pickup,Plus,Field,Fairy
+703,Clear,,Sturdy,Fairy,Mineral
+704,Sap,Hydration,Gooey,Dragon,
+705,Sap,Hydration,Gooey,Dragon,
+706,Sap,Hydration,Gooey,Dragon,
+707,Prankster,,Magician,Mineral,
+708,Natural,Frisk,Harvest,Grass,Amorphous
+709,Natural,Frisk,Harvest,Grass,Amorphous
+710,Pickup,Frisk,Insomnia,Amorphous,
+711,Pickup,Frisk,Insomnia,Amorphous,
+712,Own,Ice,Sturdy,Monster,MineralGen VIII+
+713,Own,Ice,Sturdy,Monster,MineralGen VIII+
+714,Frisk,Infiltrator,Telepathy,Flying,DragonGen VIII+
+715,Frisk,Infiltrator,Telepathy,Flying,DragonGen VIII+
+716,Fairy,,,,
+717,Dark,,,,
+718,Aura,,,,
+719,Clear,,,,
+720,Magician,,,,
+721,Water,,,,
+722,Overgrow,,Long Reach,Flying,
+723,Overgrow,,Long Reach,Flying,
+724,Overgrow,,Long Reach,Flying,
+725,Blaze,,Intimidate,Field,
+726,Blaze,,Intimidate,Field,
+727,Blaze,,Intimidate,Field,
+728,Torrent,,Liquid Voice,Water 1,Field
+729,Torrent,,Liquid Voice,Water 1,Field
+730,Torrent,,Liquid Voice,Water 1,Field
+731,Keen,Skill,Pickup,Flying,
+732,Keen,Skill,Pickup,Flying,
+733,Keen,Skill,Sheer Force,Flying,
+734,Stakeout,Strong,Adaptability,Field,
+735,Stakeout,Strong,Adaptability,Field,
+736,Swarm,,,Bug,
+737,Battery,,,Bug,
+738,Levitate,,,Bug,
+739,Hyper,Iron,Anger Point,Water 3,
+740,Hyper,Iron,Anger Point,Water 3,
+741,Dancer,,,Flying,
+742,Honey,Shield,Sweet Veil,Bug,Fairy
+743,Honey,Shield,Sweet Veil,Bug,Fairy
+744,Keen,Vital,Steadfast,Field,
+745,Keen,Sand,Steadfast,Field,
+746,Schooling,,,Water 2,
+747,Merciless,Limber,Regenerator,Water 1,
+748,Merciless,Limber,Regenerator,Water 1,
+749,Own,Stamina,Inner Focus,Field,
+750,Own,Stamina,Inner Focus,Field,
+751,Water,,Water Absorb,Water 1,Bug
+752,Water,,Water Absorb,Water 1,Bug
+753,Leaf,,Contrary,Grass,
+754,Leaf,,Contrary,Grass,
+755,Illuminate,Effect,Rain Dish,Grass,
+756,Illuminate,Effect,Rain Dish,Grass,
+757,Corrosion,,Oblivious,Monster,Dragon
+758,Corrosion,,Oblivious,Monster,Dragon
+759,Fluffy,Klutz,Cute Charm,Field,
+760,Fluffy,Klutz,Unnerve,Field,
+761,Leaf,Oblivious,Sweet Veil,Grass,
+762,Leaf,Oblivious,Sweet Veil,Grass,
+763,Leaf,Queenly,Sweet Veil,Grass,
+764,Flower,Triage,Natural Cure,Grass,
+765,Inner,Telepathy,Symbiosis,Field,
+766,Receiver,,Defiant,Field,
+767,Wimp,,,Bug,Water 3
+768,Emergency,,,Bug,Water 3
+769,Water,,Sand Veil,Amorphous,
+770,Water,,Sand Veil,Amorphous,
+771,Innards,,Unaware,Water 1,
+772,Battle,,,,
+773,RKS,,,,
+774,Shields,,,Mineral,
+775,Comatose,,,Field,
+776,Shell,,,Monster,Dragon
+777,Iron,Lightning,Sturdy,Field,Fairy
+778,Disguise,,,Amorphous,
+779,Dazzling,Strong,Wonder Skin,Water 2,
+780,Berserk,Sap,Cloud Nine,Monster,Dragon
+781,Steelworker,,,Mineral,
+782,Bulletproof,Soundproof,Overcoat,Dragon,
+783,Bulletproof,Soundproof,Overcoat,Dragon,
+784,Bulletproof,Soundproof,Overcoat,Dragon,
+785,Electric,,Telepathy,,
+786,Psychic,,Telepathy,,
+787,Grassy,,Telepathy,,
+788,Misty,,Telepathy,,
+789,Unaware,,,,
+790,Sturdy,,,,
+791,Full,,,,
+792,Shadow,,,,
+793,Beast,,,,
+794,Beast,,,,
+795,Beast,,,,
+796,Beast,,,,
+797,Beast,,,,
+798,Beast,,,,
+799,Beast,,,,
+800,Prism,,,,
+801,Soul Heart,,,,
+802,Technician,,,,
+803,Beast,,,,
+804,Beast,,,,
+805,Beast,,,,
+806,Beast,,,,
+807,Volt,,,,
+808,Magnet,,,,
+809,Iron,,,,
+810,Overgrow,,Grassy Surge,Field,Grass
+811,Overgrow,,Grassy Surge,Field,Grass
+812,Overgrow,,Grassy Surge,Field,Grass
+813,Blaze,,Libero,Field,Human-Like
+814,Blaze,,Libero,Field,Human-Like
+815,Blaze,,Libero,Field,Human-Like
+816,Torrent,,Sniper,Water 1,Field
+817,Torrent,,Sniper,Water 1,Field
+818,Torrent,,Sniper,Water 1,Field
+819,Cheek,,Gluttony,Field,
+820,Cheek,,Gluttony,Field,
+821,Keen,Unnerve,Big Pecks,Flying,
+822,Keen,Unnerve,Big Pecks,Flying,
+823,Pressure,Unnerve,Mirror Armor,Flying,
+824,Swarm,Compound,Telepathy,Bug,
+825,Swarm,Compound,Telepathy,Bug,
+826,Swarm,Frisk,Telepathy,Bug,
+827,Run,Unburden,Stakeout,Field,
+828,Run,Unburden,Stakeout,Field,
+829,Cotton,Regenerator,Effect Spore,Grass,
+830,Cotton,Regenerator,Effect Spore,Grass,
+831,Fluffy,Run,Bulletproof,Field,
+832,Fluffy,Steadfast,Bulletproof,Field,
+833,Strong,Shell,Swift Swim,Monster,Water 1
+834,Strong,Shell,Swift Swim,Monster,Water 1
+835,Ball,,Rattled,Field,
+836,Strong,,Competitive,Field,
+837,Steam,Heatproof,Flash Fire,Mineral,
+838,Steam,Flame,Flash Fire,Mineral,
+839,Steam,Flame,Flash Fire,Mineral,
+840,Ripen,Gluttony,Bulletproof,Grass,Dragon
+841,Ripen,Gluttony,Hustle,Grass,Dragon
+842,Ripen,Gluttony,Thick Fat,Grass,Dragon
+843,Sand,Shed,Sand Veil,Field,Dragon
+844,Sand,Shed,Sand Veil,Field,Dragon
+845,Gulp,,,Water 1,Flying
+846,Swift,,Propeller Tail,Water 2,
+847,Swift,,Propeller Tail,Water 2,
+848,Rattled,Static,Klutz,No Eggs Discovered,
+849,Punk,PlusAmped,Technician,Human-Like,
+850,Flash,White,Flame Body,Bug,
+851,Flash,White,Flame Body,Bug,
+852,Limber,,Technician,Water 1,Human-Like
+853,Limber,,Technician,Water 1,Human-Like
+854,Weak,,Cursed Body,Mineral,Amorphous
+855,Weak,,Cursed Body,Mineral,Amorphous
+856,Healer,Anticipation,Magic Bounce,Fairy,
+857,Healer,Anticipation,Magic Bounce,Fairy,
+858,Healer,Anticipation,Magic Bounce,Fairy,
+859,Prankster,Frisk,Pickpocket,Fairy,Human-Like
+860,Prankster,Frisk,Pickpocket,Fairy,Human-Like
+861,Prankster,Frisk,Pickpocket,Fairy,Human-Like
+862,Reckless,Guts,Defiant,Field,
+863,Battle,Tough,Steely Spirit,Field,
+864,Weak,,Perish Body,Water 1,Water 3
+865,Steadfast,,Scrappy,Flying,Field
+866,Tangled,Screen,Ice Body,Human-Like,
+867,Wandering,,,Mineral,Amorphous
+868,Sweet,,Aroma Veil,Fairy,Amorphous
+869,Sweet,,Aroma Veil,Fairy,Amorphous
+870,Battle,,Defiant,Fairy,Mineral
+871,Lightning,,Electric Surge,Water 1,Amorphous
+872,Shield,,Ice Scales,Bug,
+873,Shield,,Ice Scales,Bug,
+874,Power,,,Mineral,
+875,Ice,,,Water 1,Field
+876,Inner,SynchronizeMale,Psychic Surge,Fairy,
+877,Hunger,,,Field,Fairy
+878,Sheer,,Heavy Metal,Field,Mineral
+879,Sheer,,Heavy Metal,Field,Mineral
+880,Volt,Hustle,Sand Rush,,
+881,Volt,Static,Slush Rush,,
+882,Water,Strong,Sand Rush,,
+883,Water,Ice,Slush Rush,,
+884,Light,Heavy,Stalwart,Mineral,Dragon
+885,Clear,Infiltrator,Cursed Body,Amorphous,Dragon
+886,Clear,Infiltrator,Cursed Body,Amorphous,Dragon
+887,Clear,Infiltrator,Cursed Body,Amorphous,Dragon
+888,Intrepid,,,,
+889,Dauntless,,,,
+890,Pressure,,,,
+891,Inner,,,,
+892,Unseen,,,,
+893,Leaf,,,,
+894,Transistor,,,,
+895,Dragon s,,,,
+896,Chilling,,,,
+897,Grim,,,,
+898,Unnerve,,,,
+899,Intimidate,Frisk,Sap Sipper,Field,
+900,Swarm,Sheer,Sharpness,Bug,
+901,Guts,Bulletproof,Unnerve,Field,
+902,Swift,Adaptability,Mold Breaker,Water 2,
+903,Pressure,Unburden,Poison Touch,Field,
+904,Poison,Swift,Intimidate,Water 2,
+905,Cute,,Contrary,,
+906,Overgrow,,Protean,Field,Grass
+907,Overgrow,,Protean,Field,Grass
+908,Overgrow,,Protean,Field,Grass
+909,Blaze,,Unaware,Field,
+910,Blaze,,Unaware,Field,
+911,Blaze,,Unaware,Field,
+912,Torrent,,Moxie,Flying,Water 1
+913,Torrent,,Moxie,Flying,Water 1
+914,Torrent,,Moxie,Flying,Water 1
+915,Aroma,Gluttony,Thick Fat,Field,
+916,Lingering,GluttonyMale,Thick Fat,Field,
+917,Insomnia,,Stakeout,Bug,
+918,Insomnia,,Stakeout,Bug,
+919,Swarm,,Tinted Lens,Bug,
+920,Swarm,,Tinted Lens,Bug,
+921,Static,Natural,Iron Fist,Field,
+922,Volt,Natural,Iron Fist,Field,
+923,Volt,Natural,Iron Fist,Field,
+924,Run,Pickup,Own Tempo,Field,Fairy
+925,Friend,Cheek,Technician,Field,Fairy
+926,Own,,Klutz,Field,Mineral
+927,Well Baked,,Aroma Veil,Field,Mineral
+928,Early,,Harvest,Grass,
+929,Early,,Harvest,Grass,
+930,Seed,,Harvest,Grass,
+931,Intimidate,Hustle,Guts,Flying,
+932,Purifying,Sturdy,Clear Body,Mineral,
+933,Purifying,Sturdy,Clear Body,Mineral,
+934,Purifying,Sturdy,Clear Body,Mineral,
+935,Flash,,Flame Body,Human-Like,
+936,Flash,,Weak Armor,Human-Like,
+937,Flash,,Weak Armor,Human-Like,
+938,Own,Static,Damp,Water 1,
+939,Electromorphosis,Static,Damp,Water 1,
+940,Wind,Volt,Competitive,Water 1,Flying
+941,Wind,Volt,Competitive,Water 1,Flying
+942,Intimidate,Run,Stakeout,Field,
+943,Intimidate,Guard,Stakeout,Field,
+944,Unburden,Pickpocket,Prankster,Field,
+945,Unburden,Poison,Prankster,Field,
+946,Wind,,Infiltrator,Grass,
+947,Wind,,Infiltrator,Grass,
+948,Mycelium,,,Grass,
+949,Mycelium,,,Grass,
+950,Anger,Shell,Regenerator,Water 3,
+951,Chlorophyll,Insomnia,Klutz,Grass,
+952,Chlorophyll,Insomnia,Moody,Grass,
+953,Compound,,Shed Skin,Bug,
+954,Synchronize,,Telepathy,Bug,
+955,Anticipation,Frisk,Speed Boost,Flying,
+956,Opportunist,Frisk,Speed Boost,Flying,
+957,Mold,Own,Pickpocket,Fairy,
+958,Mold,Own,Pickpocket,Fairy,
+959,Mold,Own,Pickpocket,Fairy,
+960,Gooey,Rattled,Sand Veil,Water 3,
+961,Gooey,Rattled,Sand Veil,Water 3,
+962,Big,Keen,Rocky Payload,Flying,
+963,Water,,,Field,Water 2
+964,Zero,,,Field,Water 2
+965,Overcoat,,Slow Start,Mineral,
+966,Overcoat,,Filter,Mineral,
+967,Shed,,Regenerator,Field,
+968,Earth,,Sand Veil,Field,
+969,Toxic,,Corrosion,Mineral,
+970,Toxic,,Corrosion,Mineral,
+971,Pickup,,Fluffy,Field,
+972,Sand,,Fluffy,Field,
+973,Scrappy,Tangled,Costar,Flying,
+974,Thick,Snow,Sheer Force,Field,
+975,Thick,Slush,Sheer Force,Field,
+976,Mold,,Sharpness,Water 2,
+977,Unaware,Oblivious,Water Veil,Water 2,
+978,Commander,,Storm Drain,Water 2,
+979,Vital,Inner,Defiant,Field,
+980,Poison,Water,Unaware,Water 1,Field
+981,Cud,Armor,Sap Sipper,Field,
+982,Serene,Run,Rattled,Field,
+983,Defiant,Supreme,Pressure,Human-Like,
+984,Protosynthesis,,,,
+985,Protosynthesis,,,No Eggs Discovered,
+986,Protosynthesis,,,No Eggs Discovered,
+987,Protosynthesis,,,No Eggs Discovered,
+988,Protosynthesis,,,No Eggs Discovered,
+989,Protosynthesis,,,No Eggs Discovered,
+990,Quark,,,No Eggs Discovered,
+991,Quark,,,No Eggs Discovered,
+992,Quark,,,,
+993,Quark,,,No Eggs Discovered,
+994,Quark,,,No Eggs Discovered,
+995,Quark,,,No Eggs Discovered,
+996,Thermal,,Ice Body,Dragon,Mineral
+997,Thermal,,Ice Body,Dragon,Mineral
+998,Thermal,,Ice Body,Dragon,Mineral
+999,RattledChest,,,,
+1000,Good,,,,
+1001,Tablets,,,,
+1002,Sword,,,,
+1003,Vessel,,,,
+1004,Beads,,,,
+1005,Protosynthesis,,,,
+1006,Quark,,,,
+1007,Orichalcum,,,,
+1008,Hadron,,,,
+1009,Protosynthesis,,,,
+1010,Quark,,,,
+1011,Supersweet,Gluttony,Sticky Hold,Grass,Dragon
+1012,Hospitality,,Heatproof,Mineral,Amorphous
+1013,Hospitality,,Heatproof,Mineral,Amorphous
+1014,Toxic,,Guard Dog,,
+1015,Toxic,,Frisk,,
+1016,Toxic,,Technician,,
+1017,Defiant,,,,
+1018,Stamina,Sturdy,Stalwart,Mineral,Dragon
+1019,Supersweet,Regenerator,Sticky Hold,Grass,Dragon
+1020,Protosynthesis,,,,
+1021,Protosynthesis,,,,
+1022,Quark,,,,
+1023,Quark,,,,
+1024,Tera,,,,
+1025,Poison,,,,

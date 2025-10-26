@@ -1,15 +1,146 @@
-// This is your Prisma schema file,
-// learn more about it in the docs: https://pris.ly/d/prisma-schema
-
-// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
-// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+// server/prisma/schema.prisma
 
 generator client {
-  provider = "prisma-client"
-  output   = "../generated/prisma"
+  provider = "prisma-client-js"
 }
 
 datasource db {
   provider = "postgresql"
   url      = env("DATABASE_URL")
+}
+
+// -------------------------------------------------
+// 1. The main Pokemon table
+// -------------------------------------------------
+model pokemon {
+  // Auto-incrementing database ID
+  id         Int     @id @default(autoincrement())
+  // The Pokedex ID (from dex_number), used to link all other tables
+  pokemon_id Int     @unique
+  name       String  @db.VarChar(100)
+  type_01    String  @db.VarChar(50)
+  type_02    String? @db.VarChar(50) // '?' denotes optional (nullable)
+
+  // --- One-to-One Relationships ---
+  // A pokemon can have one entry in each of these tables
+  abilities        pokemon_abilities?
+  legendary_status pokemon_legendary_status?
+  statistics       pokemon_statistics?
+  pokedex_entry    pokemon_pokedex_entries?
+  measurements     pokemon_measurements?
+  best_moves       pokemon_best_moves?
+
+  // --- Relationship to evolutions ---
+  evolutions_from evolutions[] @relation("EvolutionsFrom")
+  evolutions_to   evolutions[] @relation("EvolutionsTo")
+}
+
+// -------------------------------------------------
+// 2. Pokemon Evolutions LOG
+// (from pokemon_evolution_log.csv)
+// This is NOT 1-to-1. It's a log of all possible evolutions.
+// -------------------------------------------------
+model evolutions {
+  id                 Int     @id @default(autoincrement())
+  evolving_from_id   Int?    // The pokemon_id of the 'from' pokemon
+  evolving_to_id     Int?    // The pokemon_id of the 'to' pokemon
+  evolving_from      String  @db.VarChar(100)
+  evolving_to        String  @db.VarChar(100)
+  trigger            String? @db.VarChar(100)
+  condition          String? @db.VarChar(100)
+  value              String? @db.VarChar(100)
+
+  // --- Optional: Define relationships ---
+  // This lets you query pokemon.evolutions_from or pokemon.evolutions_to
+  from_pokemon pokemon? @relation("EvolutionsFrom", fields: [evolving_from_id], references: [pokemon_id])
+  to_pokemon   pokemon? @relation("EvolutionsTo", fields: [evolving_to_id], references: [pokemon_id])
+}
+
+// -------------------------------------------------
+// 3. Pokemon Abilities & Egg Groups
+// (from pokemon_abilities.csv)
+// -------------------------------------------------
+model pokemon_abilities {
+  id             Int     @id @default(autoincrement())
+  pokemon_id     Int     @unique // Links to pokemon.pokemon_id
+  ability_01     String? @db.VarChar(50)
+  ability_02     String? @db.VarChar(50)
+  hidden_ability String? @db.VarChar(50)
+  egg_group_01   String? @db.VarChar(50)
+  egg_group_02   String? @db.VarChar(50)
+
+  // --- Relationship back to pokemon ---
+  pokemon pokemon @relation(fields: [pokemon_id], references: [pokemon_id])
+}
+
+// -------------------------------------------------
+// 4. Pokemon Legendary Status
+// (from pokemon_legendary_status.csv)
+// -------------------------------------------------
+model pokemon_legendary_status {
+  id           Int     @id @default(autoincrement())
+  pokemon_id   Int     @unique // Links to pokemon.pokemon_id
+  is_legendary Boolean // Prisma will handle string 'True'/'False' during seeding
+
+  // --- Relationship back to pokemon ---
+  pokemon pokemon @relation(fields: [pokemon_id], references: [pokemon_id])
+}
+
+// -------------------------------------------------
+// 5. Pokemon Base Statistics
+// (from pokemon_statistics.csv)
+// -------------------------------------------------
+model pokemon_statistics {
+  id         Int @id @default(autoincrement())
+  pokemon_id Int @unique // Links to pokemon.pokemon_id
+  hp         Int
+  attack     Int
+  defense    Int
+  sp_attack  Int
+  sp_defense Int
+  speed      Int
+
+  // --- Relationship back to pokemon ---
+  pokemon pokemon @relation(fields: [pokemon_id], references: [pokemon_id])
+}
+
+// -------------------------------------------------
+// 6. Pokemon Pokedex Entries (Bio)
+// (from pokemon_pokedex_entries.csv)
+// -------------------------------------------------
+model pokemon_pokedex_entries {
+  id            Int    @id @default(autoincrement())
+  pokemon_id    Int    @unique // Links to pokemon.pokemon_id
+  pokedex_entry String @db.Text // Use @db.Text for varchar(max)
+
+  // --- Relationship back to pokemon ---
+  pokemon pokemon @relation(fields: [pokemon_id], references: [pokemon_id])
+}
+
+// -------------------------------------------------
+// 7. Pokemon Measurements
+// (from pokemon_measurements.csv)
+// -------------------------------------------------
+model pokemon_measurements {
+  id              Int @id @default(autoincrement())
+  pokemon_id      Int @unique // Links to pokemon.pokemon_id
+  base_experience Int
+  height          Int
+  weight          Int
+
+  // --- Relationship back to pokemon ---
+  pokemon pokemon @relation(fields: [pokemon_id], references: [pokemon_id])
+}
+
+// -------------------------------------------------
+// 8. Pokemon Best Moves
+// (from pokemon_best_moves.csv)
+// -------------------------------------------------
+model pokemon_best_moves {
+  id         Int    @id @default(autoincrement())
+  pokemon_id Int    @unique // Links to pokemon.pokemon_id
+  moves      String @db.Text // Use @db.Text for potentially long strings
+
+  // --- Relationship back to pokemon ---
+  pokemon pokemon @relation(fields: [pokemon_id], references: [pokemon_id])
 }
