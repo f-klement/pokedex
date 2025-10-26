@@ -1,0 +1,34 @@
+/* Globale CSS-Variablen für unser Theme */
+:root {
+  --pokemon-red: #CC0000;
+  --pokemon-red-dark: #A30000;
+  --pokemon-white: #FFFFFF;
+  --pokemon-grey-light: #f7f7f7;
+  --pokemon-grey-dark: #333333;
+
+  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color: var(--pokemon-grey-dark);
+  background-color: var(--pokemon-grey-light);
+}
+
+/* Grundlegendes Reset */
+body, h1, h2, h3, p, ul, li {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  min-height: 100vh;
+}
+
+a {
+  font-weight: 500;
+  color: var(--pokemon-red);
+  text-decoration: inherit;
+}
+a:hover {
+  color: var(--pokemon-red-dark);
+}

@@ -1,0 +1,15 @@
+.footer {
+
+  background-color: var(--pokemon-blue, #3b4cca); 
+  color: #f0f0f0; 
+  padding: 1px 20px; 
+  
+  text-align: center;
+  
+
+  font-size: 0.75rem; 
+}
+
+.footer p {
+  margin: 0; 
+}

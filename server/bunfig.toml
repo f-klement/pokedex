@@ -1,0 +1,12 @@
+[install]
+logLevel = "debug"
+
+[install.lockfile]
+print = "yarn"
+
+# [install.security]
+scanner = "@socketsecurity/bun-security-scanner"
+
+[run]
+# equivalent to `bun --bun` for all `bun run` commands
+bun = true

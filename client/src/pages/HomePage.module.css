@@ -1,0 +1,45 @@
+/* src/pages/HomePage.module.css */
+
+.homeContainer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 40px 20px;
+  height: 100%; /* Füllt den verfügbaren Platz im Layout */
+}
+
+.title {
+  font-size: 2.5rem;
+  font-weight: bold;
+  /* Annahme: Du hast eine Farbvariable definiert */
+  color: var(--pokemon-red, #cc0000); 
+  margin-bottom: 20px;
+  text-shadow: 2px 2px 0 var(--pokemon-yellow, #ffde00);
+}
+
+.introText {
+  font-size: 1.2rem;
+  max-width: 600px;
+  margin-bottom: 30px;
+  line-height: 1.6;
+}
+
+.ctaButton {
+  display: inline-block;
+  padding: 12px 24px;
+  font-size: 1.1rem;
+  font-weight: bold;
+  text-decoration: none;
+  color: #ffffff;
+  /* Annahme: Du hast eine Farbvariable definiert */
+  background-color: var(--pokemon-blue, #3b4cca);
+  border-radius: 8px;
+  transition: transform 0.2s ease-out, background-color 0.2s ease;
+}
+
+.ctaButton:hover {
+  transform: scale(1.05);
+  background-color: #2a3a9a; /* Ein etwas dunkleres Blau */
+}
