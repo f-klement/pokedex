@@ -148,7 +148,7 @@ The server provides the following API endpoints:
   * `GET /api/pokemon`: Retrieves a JSON list of all Pokémon.
   * `GET /api/pokemon/:id`: Retrieves a single Pokémon by its `pokedex_id`.
 
-## 🚧 Next Steps / To-Do
+## Next Steps / To-Do
   * Process the Pokemon data for db import and seeding.
   * Fetch and display Pokémon data on the `/pokedex` page.
   * Implement search and filtering functionality.
