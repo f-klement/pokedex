@@ -15,6 +15,12 @@ export default defineConfig({
     strictPort: true,
     hmr: {
       clientPort: 5173
+    },
+    proxy: {
+      '/api': {
+        target: 'http://poke-server:3000',
+        changeOrigin: true,
+      },
     }
   },
   build: {
