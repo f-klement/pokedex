@@ -75,10 +75,12 @@ Follow these instructions to get the entire application stack running locally.
 
 3.  **Configure Prisma `.env`**
     Prisma's local CLI tools (like `db pull` or `studio`) need their own `.env` file inside the `server` directory to connect to the database from your *host* machine. 
-
+ ```bash
+    # server/.env
     # This URL is for local Prisma CLI commands (e.g., bunx prisma db pull)
     # It connects to the database via the port exposed by Docker.
     DATABASE_URL="postgresql://postgres:password@localhost:5432/pokedex?schema=public"
+ ```
 
 4.  **Install Dependencies**
     (This is optional for Docker but good practice for local IDEs and TypeScript support)
