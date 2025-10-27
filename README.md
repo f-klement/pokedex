@@ -53,34 +53,34 @@ Follow these instructions to get the entire application stack running locally.
 2.  **Create Root `.env` File**
     Create a `.env` file in the project's root directory. This file configures Docker Compose.
 
- ```bash
-    # .env (at project root)
-
-    # Postgres Settings
-    POSTGRES_USER=postgres
-    POSTGRES_PASSWORD=password
-    POSTGRES_DB=pokedex
-
-    # Port Settings
-    SERVER_PORT=3000
-    CLIENT_PORT=5173
-    PGADMIN_PORT=5050
-
-    # pgAdmin Credentials
-    PGADMIN_DEFAULT_EMAIL=admin@pokedex.com
-    PGADMIN_DEFAULT_PASSWORD=admin
-    # DB Storage
-    DATA_DIR=/Path/To/DB
-```
+     ```bash
+        # .env (at project root)
+    
+        # Postgres Settings
+        POSTGRES_USER=postgres
+        POSTGRES_PASSWORD=password
+        POSTGRES_DB=pokedex
+    
+        # Port Settings
+        SERVER_PORT=3000
+        CLIENT_PORT=5173
+        PGADMIN_PORT=5555
+    
+        # pgAdmin Credentials
+        PGADMIN_DEFAULT_EMAIL=admin@pokedex.com
+        PGADMIN_DEFAULT_PASSWORD=admin
+        # DB Storage
+        DATA_DIR=/Path/To/DB
+    ```
 
 3.  **Configure Prisma `.env`**
     Prisma's local CLI tools (like `db pull` or `studio`) need their own `.env` file inside the `server` directory to connect to the database from your *host* machine. 
- ```bash
-    # server/.env
-    # This URL is for local Prisma CLI commands (e.g., bunx prisma db pull)
-    # It connects to the database via the port exposed by Docker.
-    DATABASE_URL="postgresql://postgres:password@localhost:5432/pokedex?schema=public"
- ```
+    ```bash
+       # server/.env
+       # This URL is for local Prisma CLI commands (e.g., bunx prisma db pull)
+       # It connects to the database via the port exposed by Docker.
+       DATABASE_URL="postgresql://postgres:password@localhost:5432/pokedex?schema=public"
+    ```
 
 4.  **Install Dependencies**
     (This is optional for Docker but good practice for local IDEs and TypeScript support)
@@ -130,7 +130,7 @@ Once `docker-compose up` is running, the following services will be available:
 
   * **pgAdmin (Database GUI):**
 
-      * `http://localhost:5050`
+      * `http://localhost:5555`
       * **Login:** Use the `PGADMIN_DEFAULT_EMAIL` and `PGADMIN_DEFAULT_PASSWORD` from your `.env` file.
       * **Server Setup:**
           * Click "Add New Server".
