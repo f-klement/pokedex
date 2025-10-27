@@ -53,6 +53,7 @@ Follow these instructions to get the entire application stack running locally.
 2.  **Create Root `.env` File**
     Create a `.env` file in the project's root directory. This file configures Docker Compose.
 
+ ```bash
     # .env (at project root)
 
     # Postgres Settings
@@ -70,6 +71,7 @@ Follow these instructions to get the entire application stack running locally.
     PGADMIN_DEFAULT_PASSWORD=admin
     # DB Storage
     DATA_DIR=/Path/To/DB
+```
 
 3.  **Configure Prisma `.env`**
     Prisma's local CLI tools (like `db pull` or `studio`) need their own `.env` file inside the `server` directory to connect to the database from your *host* machine. 
