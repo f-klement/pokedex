@@ -147,8 +147,8 @@ Once `docker-compose up` is running, the following services will be available:
 
 The server provides the following API endpoints:
 
-  * `GET /api/pokemon`: Retrieves a JSON list of all Pokémon.
-  * `GET /api/pokemon/:id`: Retrieves a single Pokémon by its `pokedex_id`.
+  * `GET /api/pokemon`: Retrieves a JSON list of all Pokémon and their attributes.
+  * `GET /api/pokemon/:id`: Retrieves a single Pokémon and its attributes by its `pokedex_id`.
 
 ## Next Steps / To-Do
   * Fetch and display Pokémon data on the `/pokedex` page.
