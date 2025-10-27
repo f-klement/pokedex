@@ -1,4 +1,4 @@
-# Pokédex Project (React, Express, Bun & Postgres)
+# Pokédex Project (React, Vite, Express, Prisma, Bun & Postgres)
 
 This is a personal side project to build a full-stack Pokédex application. It serves as a practical exercise for combining a modern web stack: React (with Vite) on the frontend, and Express/Prisma on the backend, all powered by Bun and containerized with Docker.
 
