@@ -153,5 +153,7 @@ The server provides the following API endpoints:
 ## Next Steps / To-Do
   * Fetch and display Pokémon data on the `/pokedex` page.
   * Implement search and filtering functionality.
-  * Build a detailed view page for individual Pokémon.
+  * Build a detailed view page for individual Pokémon, including images, sounds, potentially animations.
+  * Search for additional data to display.
   * Add unit and integration tests.
+  * Add a React Native version usable on desktop and mobile.
