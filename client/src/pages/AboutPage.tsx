@@ -24,7 +24,8 @@ function AboutPage() {
           <li><strong>Object Relational Mapper:</strong> Prisma</li>
           <li><strong>Database:</strong> Postgres</li>
           <li><strong>Containerization:</strong> Docker & Docker Compose</li>
-          <li><strong>DB-Management:</strong> DBeaver</li>
+          <li><strong>DB-Management:</strong> pgAdmin</li>
+          <li><strong>Data Source:</strong> kaggle datasets, pokeapi,Purukitto/pokemon-data.json</li>
         </ul>
       </section>
     </div>
