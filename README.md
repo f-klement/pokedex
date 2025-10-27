@@ -10,6 +10,7 @@ This is a personal side project to build a full-stack Pokédex application. It s
   * **Runtime:** Bun
   * **Containerization:** Docker & Docker Compose
   * **DB Management:** pgadmin
+  * **Data Source:** kaggle datasets, pokeapi,Purukitto/pokemon-data.json 
 
 -----
 
@@ -150,10 +151,15 @@ The server provides the following API endpoints:
   * `GET /api/pokemon`: Retrieves a JSON list of all Pokémon and their attributes.
   * `GET /api/pokemon/:id`: Retrieves a single Pokémon and its attributes by its `pokedex_id`.
 
+### Data Sources
+  * https://pokeapi.co/
+  * https://github.com/Purukitto/pokemon-data.json
+  * Various kaggle datasets
+
 ## Next Steps / To-Do
   * Fetch and display Pokémon data on the `/pokedex` page.
   * Implement search and filtering functionality.
-  * Build a detailed view page for individual Pokémon, including images, sounds, potentially animations.
+  * Build a detailed view page for individual Pokémon, including images, sounds, types and attacks from pokeapi, potentially animations.
   * Search for additional data to display.
   * Add unit and integration tests.
   * Add a React Native version usable on desktop and mobile.
