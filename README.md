@@ -10,7 +10,7 @@ This is a personal side project to build a full-stack Pokédex application. It s
   * **Runtime:** Bun
   * **Containerization:** Docker & Docker Compose
   * **DB Management:** pgadmin
-  * **Data Source:** kaggle datasets, pokeapi,Purukitto/pokemon-data.json 
+  * **Data Source:** kaggle datasets, pokeapi, Purukitto/pokemon-data.json 
 
 -----
 
